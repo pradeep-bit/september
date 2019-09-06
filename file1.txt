@@ -1,3 +1,4 @@
 this is sample file1
 modified for commit2
 modified for git diff
+modified for git pull command usage
