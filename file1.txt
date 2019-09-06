@@ -4,3 +4,11 @@ modified for git diff
 modified for git pull command usage
 git branch example 
 adding code in branch master
+
+
+
+---------------------------
+chapter 1 - stash save
+            stash save 2
+	    stash save apply option
+	    merge example
